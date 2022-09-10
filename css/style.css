@@ -1,0 +1,27 @@
+/* div { 
+	color: brown;
+}*/
+ul {
+	color: rgb(117, 194, 86);
+}
+.soils {
+	color: rgb(149, 225, 18);
+}
+.hydrography {
+	color: rgb(220, 18, 18);
+}
+#relief {
+	color: rgb(134, 21, 169);
+}
+div.text{
+	color: rgb(124, 74, 9);
+}
+.text.lesson{
+	color: rgb(25, 12, 141);
+}
+.text p{
+	color: aqua;
+}
+/* .text ~ p{
+	color: black;
+} */
